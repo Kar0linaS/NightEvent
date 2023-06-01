@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nolio</string>
+    <string name="your_incidents">Twoje zgłoszone zdarzenia</string>
+    <string name="enter_events_detail">Wprowadź szczegóły wydarzenia</string>
+    <string name="List_of_events">Lista wydarzeń</string>
+    <string name="logg_in_to_your_account">Zaloguj się do \nswojego konta</string>
+    <string name="logg_in">Zaloguj się</string>
+    <string name="password">Hasło</string>
+    <string name="email">Adres email</string>
+    <string name="Do_you_want_logg_out">"Czy chcesz się wylogować? "</string>
+    <string name="YES">Tak</string>
+    <string name="NO">NIE</string>
+    <string name="Log_in_your_account">Zaloguj się do \nswojego konta</string>
+    <string name="enter_your_nickname">enter your nickname</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="Log_in">Zaloguj się</string>
+    <string name="nickname">Nickname</string>
+    <string name="passwords">Hasło</string>
+</resources>

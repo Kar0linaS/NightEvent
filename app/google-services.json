@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451442580005",
+    "project_id": "nolio-e1536",
+    "storage_bucket": "nolio-e1536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451442580005:android:9aa127cd43bfac15013dcc",
+        "android_client_info": {
+          "package_name": "com.dziubi.nolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451442580005-qalb1f523ttbnk8ffe8188a27h1u91h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4Sj7B5GPHLtqSEO1z5uB4wCtqA1HRfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451442580005-qalb1f523ttbnk8ffe8188a27h1u91h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

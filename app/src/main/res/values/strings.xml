@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nolio</string>
+    <string name="your_incidents">Your events</string>
+    <string name="enter_events_detail">enter events detail</string>
+    <string name="List_of_events">List of events</string>
+    <string name="logg_in_to_your_account">Log in to your account</string>
+    <string name="logg_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="Do_you_want_logg_out">Do you want log out</string>
+    <string name="YES">Yes</string>
+    <string name="NO">No</string>
+    <string name="Log_in_your_account">Log in to your account</string>
+    <string name="enter_your_nickname">enter your nickname</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="Log_in">Log in</string>
+    <string name="nickname">Nickname</string>
+    <string name="passwords">Password</string>
+</resources>
